@@ -1,4 +1,4 @@
 # adamghorne.github.io
 
-So this is cool.
+This is the README. I might want to see the [index](index.md).
 
